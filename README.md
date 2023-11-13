@@ -25,7 +25,7 @@
 
 # ExpenseWise
 ## Description
-ExpenseWise is a robust expense tracker built with Node.js, TypeScript, and NestJS, utilizing PostgreSQL for data storage.
+ExpenseWise is a robust expense tracker built with Node.js, TypeScript, and NestJS, utilizing PostgreSQL for data storage.<br\>
 It allows users to manage, track, and analyze their expenses effortlessly. Features include secure user authentication, real-time expense updates, and insightful data visualization.
 
 ## Installation
